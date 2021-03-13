@@ -1,0 +1,19 @@
+{
+  "name": "spa_api_sample",
+  "version": "1.0.0",
+  "description": "API used to add timesheet entries for employees and contractors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakahashiIkki/spa_api_auth0_sample.git"
+  },
+  "author": "TakahashiIkki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TakahashiIkki/spa_api_auth0_sample/issues"
+  },
+  "homepage": "https://github.com/TakahashiIkki/spa_api_auth0_sample#readme"
+}
